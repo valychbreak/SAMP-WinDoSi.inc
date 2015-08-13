@@ -20,8 +20,8 @@ Vehicle Windows/Doors/Siren Control (WinDoSi Control)
 
 ------------- Additional information ----------------
 
-  Official forum's thread: *link*
-  Change Log: *link*
+  Official forum's thread: http://forum.sa-mp.com/showthread.php?p=3549532
+  Change Log: https://github.com/valychbreak/SAMP-WinDoSi.inc/commits/master
   Documentation: *link*
 
 -----------------------------------------------------
