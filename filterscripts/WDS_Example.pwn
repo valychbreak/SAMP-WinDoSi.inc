@@ -3,7 +3,7 @@
 #include <sscanf>
 
 #define VEHICLE_WDS_DEBUG
-#include <VehicleWDSControl>
+#include <windosi>
 
 public OnFilterScriptInit()
 {
